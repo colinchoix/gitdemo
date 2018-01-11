@@ -8,3 +8,6 @@ git push origin master
 
 git clean -nd //test
 git clean -fd //delete
+
+gitk //graph 
+gitk --all
