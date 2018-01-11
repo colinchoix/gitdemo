@@ -5,3 +5,6 @@ add > commit > push
 git add -A
 git commit -am "hello"
 git push origin master
+
+git clean -nd //test
+git clean -fd //delete
