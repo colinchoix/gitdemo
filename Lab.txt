@@ -37,5 +37,5 @@ cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git branch
 * database
   master
 
-
+git merge database // make sure you're in master branch
 
