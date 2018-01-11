@@ -14,3 +14,5 @@ git clean -fd //delete
 
 gitk //graph 
 gitk --all
+
+.gitignore > "stuff you want ignored"
