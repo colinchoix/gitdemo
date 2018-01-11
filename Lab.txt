@@ -23,7 +23,7 @@ git checkout 4A5B
 commits are snap shots
 you can go back to see what it looked like
 
-git remote (-v)//origin
+git remote (-v)//origin. Also check the owner or location online 
 git branch //* is head(master) where everything sommited is put
 
 cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git pull
