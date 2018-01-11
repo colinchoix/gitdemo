@@ -1,3 +1,6 @@
+Always git pull first to get the latest version
+pull > change > push
+
 origin is the online version
 master is the main area where we work
 add > commit > push
