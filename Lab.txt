@@ -1,1 +1,7 @@
-origin is the online version\nmaster is the main area where we work\nadd > commit > push
+origin is the online version
+master is the main area where we work
+add > commit > push
+
+git add -A
+git commit -am "hello"
+git push origin master
