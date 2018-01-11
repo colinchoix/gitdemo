@@ -16,3 +16,8 @@ gitk //graph
 gitk --all
 
 .gitignore > "stuff you want ignored"
+
+git log
+git checkout 4A5B
+commits are snap shots
+you can go back to see what it looked like
