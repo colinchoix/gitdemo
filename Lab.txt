@@ -39,3 +39,4 @@ cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git branch
 
 git merge database // make sure you're in master branch
 
+if working on another person's repository. You can clone it but you can not push to it without credentials
