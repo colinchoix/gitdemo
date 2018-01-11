@@ -1,0 +1,7 @@
+This is the second file 
+It is created locally
+
+Creator: Colin
+All Rights Reserved.
+...
+...
