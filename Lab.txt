@@ -21,3 +21,6 @@ git log
 git checkout 4A5B
 commits are snap shots
 you can go back to see what it looked like
+
+git remote (-v)//origin
+git branch //* is head(master) where everything sommited is put
