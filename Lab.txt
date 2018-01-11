@@ -24,3 +24,18 @@ you can go back to see what it looked like
 
 git remote (-v)//origin
 git branch //* is head(master) where everything sommited is put
+
+cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git pull
+Already up-to-date.
+cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git branch database
+cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git branch
+  database
+* master
+cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git checkout database
+Switched to branch 'database'
+cechoi@5013-w16:~/CMPUT301/projects/gitdemo$ git branch
+* database
+  master
+
+
+
